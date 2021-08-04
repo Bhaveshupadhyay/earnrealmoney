@@ -1,3 +1,16 @@
 {
-"api_key" :"22d57e58becd2ed4c72e58503695753098685bff876b8cf0930aae547d425d02"
+"news" :[
+{
+"img" :"22d57e58becd2ed4c72e58503695753098685bff876b8cf0930aae547d425d02",
+"title1" :"",
+"title2" : "",
+"content" :""
+},
+{
+"img" :"22d57e58becd2ed4c72e58503695753098685bff876b8cf0930aae547d425d02",
+"title1" :"",
+"title2" : "",
+"content" :""
+}
+]
 }
